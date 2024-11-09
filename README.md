@@ -1,1 +1,1 @@
-# Proyecto Colaborativo 
+parte cambiada por Rafa en el readme
